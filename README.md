@@ -21,28 +21,15 @@ Skills you want to learn:
 4.software engineering skills
 5. mathematics and logic
 
-Where you see yourself in 2–5 years:
+Where you see yourself in 2–5 years:I see myself becoming a skilled AI and Software Specialist, building intelligent systems, creating innovative tech solutions, and leading impactful projects that solve real community challenges.
 
 
-C. Projects I’ve Worked On
-
-List any:
-
-Projects from class
-
-Personal projects
-
-Hackathons
-
-Even unfinished ideas you’ve started
-
-
-D. Achievements & Updates Section
-
-Write a small section called:
+C. Projects I’ve Worked on
+chatbot
+booking website
+letstalktech website
+basic aduino robotics car contral system
+calculator
 
 ## My Developer Journey Log
-
-In that section add the line:
-
-> I will update this part of the README every time I achieve something new in tech.
+I will update this part of the README every time I achieve something new in tech.
