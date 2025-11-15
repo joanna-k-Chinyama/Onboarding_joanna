@@ -25,11 +25,11 @@ Where you see yourself in 2–5 years:I see myself becoming a skilled AI and Sof
 
 
 C. Projects I’ve Worked on
-chatbot
-booking website
-letstalktech website
-basic aduino robotics car contral system
-calculator
+1. chatbot
+2. booking website
+3. letstalktech website
+4. basic aduino robotics car contral system
+5. calculator
 
 ## My Developer Journey Log
 I will update this part of the README every time I achieve something new in tech.
